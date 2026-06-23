@@ -1,4 +1,3 @@
-Bạn có thể copy nguyên khối dưới đây vào file `.md`:
 
 # BÀI 2: THỰC HÀNH XÂY DỰNG THUẬT TOÁN KHUYẾN MÃI PHỨC TẠP (CHAIN-OF-THOUGHT - CoT)
 
